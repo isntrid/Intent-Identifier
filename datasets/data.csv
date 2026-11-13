@@ -1,0 +1,19 @@
+text,label
+"You're brilliant.",positive
+"I really appreciate your help.",positive
+"You're exceptionally talented.",positive
+"You're not dumb at all.",positive
+"You did an excellent job.",positive
+"You're a genuinely good person.",positive
+"You're stupid.",negative
+"You're nothing special.",negative
+"You're completely useless.",negative
+"Nobody takes you seriously.",negative
+"You're an idiot.",negative
+"You're not particularly impressive.",negative
+"It's like me calling you stupid.",neutral
+"Calling someone stupid is offensive.",neutral
+"What does the word stupid mean?",neutral
+"I saw you yesterday.",neutral
+"The weather is quite nice today.",neutral
+"Are you coming tomorrow?",neutral
